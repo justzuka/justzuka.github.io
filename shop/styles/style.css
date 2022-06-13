@@ -103,7 +103,7 @@ body {
 .content .inContent p {
 	color: rgb(255, 255, 255);
 	font-size: large;
-	padding: 2px;
+	padding: 5px;
 	border: 0;
 	background-color: rgb(64, 74, 163);
 	display: inline-block;
